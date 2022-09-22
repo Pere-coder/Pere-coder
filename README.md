@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pere-coder
 - 👀 I am a python developer
-- 🌱 I’m currently am currently specilaizing on the django framework
+- 🌱 I specilaize on the django framework
 - 💞️ I’m looking to collaborate on any django project
 - 📫 How to reach me gpere800@gmail.com
 
