@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pere-coder
 - 👀 I am a python developer
 - 🌱 I specilaize on the django framework
-- 💞️ I’m looking to collaborate on any django project
+- 💞️ I’m looking to work on any django project
 - 📫 How to reach me gpere800@gmail.com
 
 <!---
