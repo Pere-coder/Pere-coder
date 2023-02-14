@@ -1,5 +1,5 @@
 ## HELLO THERE 👋
-My name is Godspower Pere Toikumo and software developer from Lagos Nigeria.
+My name is Godspower Pere Toikumo and i am software developer from Lagos Nigeria.
 
 ## &#x270d; Graphic design 
 
